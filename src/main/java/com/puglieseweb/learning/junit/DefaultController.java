@@ -1,4 +1,4 @@
-package com.puglieseweb.book.junit;
+package com.puglieseweb.learning.junit;
 
 import java.util.HashMap;
 import java.util.Map;

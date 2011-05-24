@@ -1,4 +1,4 @@
-package com.puglieseweb.book.junit;
+package com.puglieseweb.learning.junit;
 
 /**
  * 

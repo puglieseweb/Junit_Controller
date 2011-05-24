@@ -1,7 +1,7 @@
 /*
  * Puglieseweb (c) Copyright 2011. All Right Reserved.
  */
-package com.puglieseweb.book.junit;
+package com.puglieseweb.learning.junit;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -9,6 +9,12 @@ import static org.junit.Assert.assertSame;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.puglieseweb.learning.junit.DefaultController;
+import com.puglieseweb.learning.junit.ErrorResponse;
+import com.puglieseweb.learning.junit.Request;
+import com.puglieseweb.learning.junit.RequestHandler;
+import com.puglieseweb.learning.junit.Response;
 
 /**
  * @author Emanuele Pugliese

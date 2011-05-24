@@ -1,7 +1,7 @@
 /*
  * Puglieseweb (c) Copyright 2011. All Right Reserved.
  */
-package com.puglieseweb.book.junit;
+package com.puglieseweb.learning.junit;
 
 /**
  * @author Emanuele Pugliese
